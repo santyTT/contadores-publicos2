@@ -1,0 +1,758 @@
+<!doctype html><!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="es" > <![endif]--><!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="es" >        <![endif]--><!--[if IE 8]>    <html class="no-js lt-ie9" lang="es" >               <![endif]--><!--[if gt IE 8]><!--><html class="no-js" lang="es"><!--<![endif]--><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="author" content="BLITA International">
+    <meta name="description" content="Dados los desafíos que deben superar las startups en su creación, desarrollo y expansión, requieren un abogado que se encargue de sus temas jurídicos.">
+    <meta name="generator" content="HubSpot">
+    <title>Asesoría legal para emprendedores</title>
+    <link rel="shortcut icon" href="https://www.blita.com/hubfs/blita-fav.png">
+    
+
+    <script src="/hs/hsstatic/jquery-libs/static-1.1/jquery/jquery-1.7.1.js"></script>
+<script>hsjQuery = window['jQuery'];</script>
+    <meta property="og:description" content="Dados los desafíos que deben superar las startups en su creación, desarrollo y expansión, requieren un abogado que se encargue de sus temas jurídicos.">
+    <meta property="og:title" content="Asesoría legal para emprendedores">
+    <meta name="twitter:description" content="Dados los desafíos que deben superar las startups en su creación, desarrollo y expansión, requieren un abogado que se encargue de sus temas jurídicos.">
+    <meta name="twitter:title" content="Asesoría legal para emprendedores">
+
+    
+
+    
+    <style>
+a.cta_button{-moz-box-sizing:content-box !important;-webkit-box-sizing:content-box !important;box-sizing:content-box !important;vertical-align:middle}.hs-breadcrumb-menu{list-style-type:none;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px}.hs-breadcrumb-menu-item{float:left;padding:10px 0px 10px 10px}.hs-breadcrumb-menu-divider:before{content:'›';padding-left:10px}.hs-featured-image-link{border:0}.hs-featured-image{float:right;margin:0 0 20px 20px;max-width:50%}@media (max-width: 568px){.hs-featured-image{float:none;margin:0;width:100%;max-width:100%}}.hs-screen-reader-text{clip:rect(1px, 1px, 1px, 1px);height:1px;overflow:hidden;position:absolute !important;width:1px}
+</style>
+
+    
+
+    
+<!--  Added by GoogleAnalytics4 integration -->
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+
+if (!window._hsGoogleConsentRunOnce) {
+  window._hsGoogleConsentRunOnce = true;
+
+  gtag('consent', 'default', {
+    'ad_storage': 'denied',
+    'analytics_storage': 'denied'
+  });
+
+  var _hsp = window._hsp = window._hsp || [];
+
+  _hsp.push(['addPrivacyConsentListener', function(consent){
+    var hasAnalyticsConsent = consent && (consent.allowed || (consent.categories && consent.categories.analytics));
+    var hasAdsConsent = consent && (consent.allowed || (consent.categories && consent.categories.advertisement));
+
+    gtag('consent', 'update', {
+      'ad_storage': hasAdsConsent ? 'granted' : 'denied',
+      'analytics_storage': hasAnalyticsConsent ? 'granted' : 'denied'
+    });
+  }]);
+}
+
+gtag('js', new Date());
+gtag('set', 'developer_id.dZTQ1Zm', true);
+gtag('config', 'G-CHB7ZPPYSM');
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CHB7ZPPYSM"></script>
+<!-- /Added by GoogleAnalytics4 integration -->
+
+<!--  Added by GoogleTagManager integration -->
+<script>
+var _hsp = window._hsp = window._hsp || [];
+
+var hsLoadGtm = function loadGtm() {
+    if(window._hsGtmLoadOnce) {
+      return;
+    }
+
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-564ZLT2');
+
+    window._hsGtmLoadOnce = true;
+};
+
+var useGoogleConsentMode = false;
+
+if (!useGoogleConsentMode){
+    _hsp.push(['addPrivacyConsentListener', function(consent){
+      if(consent.allowed || (consent.categories && consent.categories.analytics)){
+        hsLoadGtm();
+      }
+  }]);
+} else{
+    if(!window._hsGoogleConsentRunOnce){
+      window._hsGoogleConsentRunOnce=true;
+
+      window.dataLayer=window.dataLayer||[];
+      function gtag(){dataLayer.push(arguments);}
+
+      gtag('consent','default',{
+        'ad_storage':'denied',
+        'analytics_storage':'denied'
+      });
+
+      gtag('set','developer_id.dZTQ1Zm',true);
+
+      _hsp.push(['addPrivacyConsentListener',function(consent){
+      var hasAnalyticsConsent=consent&&(consent.allowed||(consent.categories&&consent.categories.analytics));
+      var hasAdsConsent=consent&&(consent.allowed||(consent.categories&&consent.categories.advertisement));
+
+      gtag('consent','update',{
+        'ad_storage':hasAdsConsent?'granted':'denied',
+        'analytics_storage':hasAnalyticsConsent?'granted':'denied'
+      });
+    }]);
+  }
+
+  hsLoadGtm();
+}
+</script>
+
+<!-- /Added by GoogleTagManager integration -->
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-564ZLT2');</script>
+<!-- End Google Tag Manager -->
+<link rel="amphtml" href="https://www.blita.com/es/noticias/asesoría-legal-para-emprendedores?hs_amp=true">
+
+<meta property="og:image" content="https://www.blita.com/hubfs/abogado%20blog.png#keepProtocol">
+<meta property="og:image:width" content="1298">
+<meta property="og:image:height" content="649">
+
+<meta name="twitter:image" content="https://www.blita.com/hubfs/abogado%20blog.png#keepProtocol">
+
+
+<meta property="og:url" content="https://www.blita.com/es/noticias/asesoría-legal-para-emprendedores">
+<meta name="twitter:card" content="summary_large_image">
+
+<link rel="canonical" href="https://www.blita.com/es/noticias/asesoría-legal-para-emprendedores">
+
+<meta property="og:type" content="article">
+<link rel="alternate" type="application/rss+xml" href="https://www.blita.com/es/noticias/rss.xml">
+<meta name="twitter:domain" content="www.blita.com">
+<script src="//platform.linkedin.com/in.js" type="text/javascript">
+    lang: es_ES
+</script>
+
+<meta http-equiv="content-language" content="es">
+<link rel="stylesheet" href="//cdn2.hubspot.net/hub/7052064/hub_generated/template_assets/1701378737672/hubspot/hubspot_default/shared/responsive/layout.min.css">
+
+
+<link rel="stylesheet" href="https://www.blita.com/hs-fs/hub/3781549/hub_generated/template_assets/56753501258/1651230985855/Blita-2021/Codes/Blita_Style_2021.css">
+
+
+
+
+</head>
+<body class="   hs-content-id-37768002575 hs-blog-post hs-blog-id-5600045669" style="">
+<!--  Added by GoogleTagManager integration -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-564ZLT2" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<!-- /Added by GoogleTagManager integration -->
+
+    <div class="header-container-wrapper">
+    <div class="header-container container-fluid">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-global_group " style="" data-widget-type="global_group" data-x="0" data-w="12">
+<div class="" data-global-widget-path="generated_global_groups/56753484451.html"><div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell header-section" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell container" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span6 widget-span widget-type-cell left-side" style="" data-widget-type="cell" data-x="0" data-w="6">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-4 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget logo" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_16334131057018" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+    
+
+
+
+
+
+
+  
+
+
+
+<span id="hs_cos_wrapper_module_16334131057018_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="https://www.blita.com/es/?hsLang=es" target="_parent" id="hs-link-module_16334131057018_" style="border-width:0px;border:0px;"><img src="https://www.blita.com/hubfs/logo.svg" class="hs-image-widget " style="max-width: 100%; height: auto;" alt="logo" title="logo"></a></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+<div class="span6 widget-span widget-type-cell right-side" style="" data-widget-type="cell" data-x="6" data-w="6">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-5 ">
+<div class="row-fluid ">
+<div class="span11 widget-span widget-type-custom_widget mainmenu" style="" data-widget-type="custom_widget" data-x="0" data-w="11">
+<div id="hs_cos_wrapper_module_163341312002329" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+<span id="hs_cos_wrapper_module_163341312002329_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_module_163341312002329_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="default" data-menu-id="56753501006" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.blita.com/es/" role="menuitem">Inicio</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.blita.com/es/servicios" role="menuitem">Servicios</a></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none"><a href="https://www.blita.com/es/quienes-somos" aria-haspopup="true" aria-expanded="false" role="menuitem">Nosotros</a>
+   <ul role="menu" class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.blita.com/es/quienes-somos#table-content1" role="menuitem">Sobre Blita</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.blita.com/es/quienes-somos#table-content2" role="menuitem">Membresía</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.blita.com/es/quienes-somos#table-content3" role="menuitem">Gobernanza</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.blita.com/es/quienes-somos#table-content4" role="menuitem">¿Por qué elegir a un miembro de BLITA International?</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none"><a href="https://www.blita.com/es/recursos" aria-haspopup="true" aria-expanded="false" role="menuitem">Recursos</a>
+   <ul role="menu" class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.blita.com/es/perfil-del-pais" role="menuitem">Perfil del país</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.blita.com/es/guias-de-negocios" role="menuitem">Guía de negocios</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.blita.com/es/noticias" role="menuitem">Blog</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="//www-blita-com.sandbox.hs-sites.com/es/global-taxes-app" role="menuitem">Global Taxes App</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.blita.com/es/eventos" role="menuitem">Eventos</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.blita.com/es/contactenos" role="menuitem">Contacto</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.blita.com/es/miembros" role="menuitem">Firmas Miembros</a></li>
+ </ul>
+</div></span></div>
+
+</div><!--end widget-span -->
+<div class="span1 widget-span widget-type-custom_widget language_box" style="" data-widget-type="custom_widget" data-x="11" data-w="1">
+<div id="hs_cos_wrapper_module_165122651843328" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-language_switcher" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_165122651843328_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_language_switcher" style="" data-hs-cos-general-type="widget" data-hs-cos-type="language_switcher"></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+</div>
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+    </div><!--end header -->
+</div><!--end header wrapper -->
+
+<div class="body-container-wrapper">
+    <div class="body-container container-fluid">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+
+
+<div class="span12 widget-span widget-type-custom_widget " style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_163361365914219" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div class="inner-hero-section bg-gradient" style="background-image:url(https://www.blita.com/hubfs/blog-post-bg-new.jpg)">
+  <div class="container">
+    <div class="post-item">
+      <div class="feature-img">
+        
+        <div class="hs-featured-image-wrapper">
+          <a href="https://www.blita.com/es/noticias/asesoría-legal-para-emprendedores" title="" class="hs-featured-image-link">
+            <img src="https://www.blita.com/hubfs/abogado%20blog.png" class="hs-featured-image" alt="">
+          </a>
+        </div>
+        
+      </div>
+      <div class="post-bottm">
+        <div class="date">
+          19 <span>.</span> noviembre <span>.</span> 2020
+        </div>
+        <h1><span id="hs_cos_wrapper_name" class="hs_cos_wrapper hs_cos_wrapper_meta_field hs_cos_wrapper_type_text" style="" data-hs-cos-general-type="meta_field" data-hs-cos-type="text">Asesoría legal para emprendedores</span></h1>
+      </div>
+    </div>
+  </div>
+</div></div>
+
+</div><!--end widget-span -->
+
+
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell blog-main-section blog-2021" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-4 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell container" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-5 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget " style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_151388194052436" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-blog_content" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+    <div class="blog-section">
+<div class="blog-post-wrapper cell-wrapper">
+<div class="blog-section">
+<div class="blog-post-wrapper cell-wrapper">
+<div class="section post-header">
+<div id="hubspot-author_data" class="hubspot-editable" data-hubspot-form-id="author_data" data-hubspot-name="Blog Author">
+<!--             <span class="hs-author-label">Posted by</span> -->
+</div>
+</div>
+<div class="post-cover">
+<div class="section post-body">
+<span id="hs_cos_wrapper_post_body" class="hs_cos_wrapper hs_cos_wrapper_meta_field hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="meta_field" data-hs-cos-type="rich_text"><p style="text-align: justify;"><span style="font-size: 12.0pt;"><img src="https://www.blita.com/hs-fs/hubfs/abogado%20blog.png?width=1298&amp;name=abogado%20blog.png" alt="abogado blog" style="width: 1298px;" width="1298" srcset="https://www.blita.com/hs-fs/hubfs/abogado%20blog.png?width=649&amp;name=abogado%20blog.png 649w, https://www.blita.com/hs-fs/hubfs/abogado%20blog.png?width=1298&amp;name=abogado%20blog.png 1298w, https://www.blita.com/hs-fs/hubfs/abogado%20blog.png?width=1947&amp;name=abogado%20blog.png 1947w, https://www.blita.com/hs-fs/hubfs/abogado%20blog.png?width=2596&amp;name=abogado%20blog.png 2596w, https://www.blita.com/hs-fs/hubfs/abogado%20blog.png?width=3245&amp;name=abogado%20blog.png 3245w, https://www.blita.com/hs-fs/hubfs/abogado%20blog.png?width=3894&amp;name=abogado%20blog.png 3894w" sizes="(max-width: 1298px) 100vw, 1298px"></span></p>
+<p style="text-align: justify;"><span style="font-size: 12.0pt;"><span style="font-size: 12px;">Para que tanto emprendedores, como startups puedan enfocarse en desarrollar y perfeccionar su idea de negocio y poder abrirse paso exitosamente en el mercado, es importante contar con la asesoría de abogados especializados en economía digital para que ellos les ayuden a manejar eficientemente los recursos monetarios y humanos, así como los contratos.</span></span></p>
+<!--more-->
+<p style="text-align: justify;"><span style="font-size: 12.0pt;">De esta manera, un abogado especialista en startups debe tener experiencia y conocimientos en:</span></p>
+<ul style="text-align: justify;">
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000000;"> La arquitectura y programación de plataformas digitales y sus aplicaciones móviles, las cuales son esenciales de toda startup.</span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000000;"> La negociación asertiva con inversionistas, fundadores y empleados clave, para consolidar el desarrollo de la empresa.</span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000000;"> La planeación fiscal de negocios digitales y empresas emergentes para minimizar los riesgos.</span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000000;"> En ejercer y dominar el litigio entre particulares y frente a autoridades gubernamentales.</span></li>
+<li style="text-align: justify;"><span style="color: #000000;"><span style="font-size: 12.0pt;"> En conocer e implementar las herramientas de análisis económico del derecho, para evaluar la aplicación de diferentes estrategias jurídicas beneficiosas para la empresa.</span><span style="font-size: 12.0pt;"></span></span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-size: 12.0pt;">Si quiere contar con una asesoría eficiente para consolidar su emprendimiento, en <a href="/es/servicios?hsLang=es" rel="noopener">BLITA International </a></span><span style="font-size: 12.0pt;">contamos con un equipo de abogados expertos en el tema, ubicados en Latinoamérica y El Caribe, Europa y China. </span></p>
+<p><a href="/es/servicios?hsLang=es" rel="noopener">Fuente: América economía</a></p>
+<p>&nbsp;</p></span>
+</div>
+<div id="hs_cos_wrapper_module_1633614612578158" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"></div>
+</div>
+<div id="hs_cos_wrapper_module_1633614738856161" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_1633614738856161_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_related_blog_posts" style="" data-hs-cos-general-type="widget" data-hs-cos-type="related_blog_posts"><div id="related-blog-posts-6237661701665783914">
+</div>
+<script type="text/javascript">
+const xhttp_6237661701665783914 = new XMLHttpRequest();
+xhttp_6237661701665783914.open("GET", '/_hcms/related-blog-posts-callback?blogPostId=37768002575&blogId=5600045669&targetBlogPostIds=37768002575&macro=default&limit=3&templatePath=generated_layouts%2F72210705411.html&contentId=37768002575&requestPath=%2Fes%2Fnoticias%2Fasesor%C3%ADa-legal-para-emprendedores&hs-expires=1733201783&hs-version=1&hs-signature=AM6Wq0YdorXAIwzj7Jpn21_HABgyBTnIzQ');
+xhttp_6237661701665783914.onreadystatechange = function() {
+if (this.readyState == XMLHttpRequest.DONE) {
+if (this.status == 200) {
+var id = setInterval(function() {
+var formattingFunction = blog_post_formatter;
+if (formattingFunction !== undefined) {
+clearTimeout(id);
+document.getElementById('related-blog-posts-6237661701665783914').outerHTML = formattingFunction(JSON.parse(xhttp_6237661701665783914.responseText));
+}
+}, 50);
+setTimeout(function() {
+clearTimeout(id);
+}, 10000);
+} else {
+console.error('Error: ', this.statusText);
+}
+}
+};
+xhttp_6237661701665783914.send();
+</script>
+</span>
+<script>
+var blog_post_formatter = function(blogposts) {
+var formatted = `<div class="related-post"><h2>Artículos relacionados</h2><div class="wrap">`;
+for (var i = 0; i < blogposts.length; i++) {
+var blogpost = blogposts[i];
+formatted += `<div class="post-item">`;
+if (blogpost.featuredImage) {
+formatted += `<div class="feature-img"><div class="hs-featured-image-wrapper"><a href="${blogpost.url}" title="" class="hs-featured-image-link"><img src="${blogpost.featuredImage}" class="hs-featured-image" alt="${blogpost.name}"></a></div></div>`;
+}
+formatted += `<div class="post-bottm"><div class="date">${new Date(blogpost.publishDate).toLocaleDateString()}</div><h2><a href="${blogpost.url}">${blogpost.name}</a></h2> <!-- <div class="post-body clearfix">${blogpost.postSummary}</div> --> <div class="more-btn"><a class="more-link" href="${blogpost.url}">Leer más <i class="fa fa-angle-right"></i></a></div></div>`;
+formatted += `</div>`;
+}
+formatted += `</div></div>`;
+return formatted;
+}
+</script></div>
+</div>
+</div>
+<!-- Optional: Blog Author Bio Box -->
+</div>
+</div>
+</div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+    </div><!--end body -->
+</div><!--end body wrapper -->
+
+<div class="footer-container-wrapper">
+    <div class="footer-container container-fluid">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-global_group " style="" data-widget-type="global_group" data-x="0" data-w="12">
+<div class="" data-global-widget-path="generated_global_groups/72211624495.html"><div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell footer-section" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell container" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell footer-logo" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-4 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget " style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_42900899" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+    
+
+
+
+
+
+
+  
+
+
+
+<span id="hs_cos_wrapper_module_42900899_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="https://www.blita.com/hubfs/logo.svg" class="hs-image-widget " style="max-width: 100%; height: auto;" alt="logo" title="logo"></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-5 ">
+<div class="row-fluid ">
+<div class="span6 widget-span widget-type-cell left-side" style="" data-widget-type="cell" data-x="0" data-w="6">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-6 ">
+<div class="row-fluid ">
+<div class="span6 widget-span widget-type-custom_widget address" style="" data-widget-type="custom_widget" data-x="0" data-w="6">
+<div id="hs_cos_wrapper_module_428968256" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_428968256_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><p><strong>Oficina de Admin</strong><br>2330 Ponce de Leon<br>Blvd. Suite 201 Coral<br>Gables, FL 33134<br>EUA</p></span></div>
+
+</div><!--end widget-span -->
+<div class="span6 widget-span widget-type-custom_widget contact" style="" data-widget-type="custom_widget" data-x="6" data-w="6">
+<div id="hs_cos_wrapper_module_916601839" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_916601839_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><p><strong>Teléfono:</strong><br><a href="tel:13054440340">+1 305 444 0340</a><br><strong>Fax: </strong><br><a href="tel:13054444010">+1 305 444 4010</a><br><strong>E-mail:</strong><br><a href="mailto:info@blita.com">info@blita.com</a></p></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-7 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget footer-subscribe" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_333369021" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-form" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+	
+
+
+
+	<span id="hs_cos_wrapper_module_333369021_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_form" style="" data-hs-cos-general-type="widget" data-hs-cos-type="form"><h3 id="hs_cos_wrapper_module_333369021_title" class="hs_cos_wrapper form-title" data-hs-cos-general-type="widget_field" data-hs-cos-type="text">Suscríbete al newsletter</h3>
+
+<div id="hs_form_target_module_333369021"></div>
+
+
+
+
+
+
+
+
+
+</span>
+</div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+<div class="span6 widget-span widget-type-cell right-side" style="" data-widget-type="cell" data-x="6" data-w="6">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-8 ">
+<div class="row-fluid ">
+<div class="span6 widget-span widget-type-cell f-left-menu" style="" data-widget-type="cell" data-x="0" data-w="6">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget footer-menu" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_903195336" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_903195336_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_903195336_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-vertical" role="navigation" data-sitemap-name="" data-menu-id="" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="javascript:void(0);" role="menuitem" target="_self">Inicio</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="javascript:void(0);" role="menuitem" target="_self">Servicios</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="javascript:void(0);" role="menuitem" target="_self">Nosotros</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="javascript:void(0);" role="menuitem" target="_self">Firmas miembros</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="javascript:void(0);" role="menuitem" target="_self">Recursos</a></li>
+ </ul>
+</div></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+<div class="span6 widget-span widget-type-cell f-right-menu" style="" data-widget-type="cell" data-x="6" data-w="6">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget footer-menu" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_961256936" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_961256936_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_961256936_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-vertical" role="navigation" data-sitemap-name="" data-menu-id="" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="javascript:void(0);" role="menuitem" target="_self">Global Taxes App</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="javascript:void(0);" role="menuitem" target="_self">Guías de negocio</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="javascript:void(0);" role="menuitem" target="_self">Blog</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="javascript:void(0);" role="menuitem" target="_self">Contacto</a></li>
+ </ul>
+</div></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-2 row-number-3 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget footer-social" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_368781976" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><ul>
+  <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+  <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+</ul></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell bottom-footer" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell container" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span6 widget-span widget-type-custom_widget copyright" style="" data-widget-type="custom_widget" data-x="0" data-w="6">
+<div id="hs_cos_wrapper_module_580857077" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_580857077_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="text">© 2021 Blita  All Rights Reserved.</span></div>
+
+</div><!--end widget-span -->
+<div class="span6 widget-span widget-type-custom_widget privacy-menu" style="" data-widget-type="custom_widget" data-x="6" data-w="6">
+<div id="hs_cos_wrapper_module_195634434" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_195634434_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_195634434_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-vertical" role="navigation" data-sitemap-name="" data-menu-id="" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="javascript:void(0);" role="menuitem" target="_self">Privacy Policy</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="javascript:void(0);" role="menuitem" target="_self">Terms of Service</a></li>
+ </ul>
+</div></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+</div>
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+    </div><!--end footer -->
+</div><!--end footer wrapper -->
+
+    
+<!-- HubSpot performance collection script -->
+<script defer src="https://static.hsappstatic.net/content-cwv-embed/static-1.388/embed.js"></script>
+<script src="https://www.blita.com/hs-fs/hub/3781549/hub_generated/template_assets/56754303527/1643828416241/Blita-2021/Codes/Blita_Script_2021.min.js"></script>
+<script>
+var hsVars = hsVars || {}; hsVars['language'] = 'es';
+</script>
+
+<script src="/hs/hsstatic/cos-i18n/static-1.53/bundles/project.js"></script>
+<script src="/hs/hsstatic/keyboard-accessible-menu-flyouts/static-1.17/bundles/project.js"></script>
+
+    <!--[if lte IE 8]>
+    <script charset="utf-8" src="https://js.hsforms.net/forms/v2-legacy.js"></script>
+    <![endif]-->
+
+<script data-hs-allowed="true" src="/_hcms/forms/v2.js"></script>
+
+    <script data-hs-allowed="true">
+        var options = {
+            portalId: '3781549',
+            formId: 'd60feb27-6378-4c3c-9873-e4d6f7aa070f',
+            formInstanceId: '6283',
+            pageId: '37768002575',
+            region: 'na1',
+            
+            
+            
+            
+            pageName: "Asesor\u00EDa legal para emprendedores",
+            
+            
+            
+            inlineMessage: "Vielen Dank, dass Sie das Formular eingesendet haben.",
+            
+            
+            rawInlineMessage: "Vielen Dank, dass Sie das Formular eingesendet haben.",
+            
+            
+            hsFormKey: "0430259f60eb8d96810797ad9f2d0333",
+            
+            
+            css: '',
+            target: '#hs_form_target_module_333369021',
+            
+            
+            
+            
+            
+            contentType: "blog-post",
+            
+            
+            
+            formsBaseUrl: '/_hcms/forms/',
+            
+            
+            
+            formData: {
+                cssClass: 'hs-form stacked hs-custom-form'
+            }
+        };
+
+        options.getExtraMetaDataBeforeSubmit = function() {
+            var metadata = {};
+            
+
+            if (hbspt.targetedContentMetadata) {
+                var count = hbspt.targetedContentMetadata.length;
+                var targetedContentData = [];
+                for (var i = 0; i < count; i++) {
+                    var tc = hbspt.targetedContentMetadata[i];
+                     if ( tc.length !== 3) {
+                        continue;
+                     }
+                     targetedContentData.push({
+                        definitionId: tc[0],
+                        criterionId: tc[1],
+                        smartTypeId: tc[2]
+                     });
+                }
+                metadata["targetedContentMetadata"] = JSON.stringify(targetedContentData);
+            }
+
+            return metadata;
+        };
+
+        hbspt.forms.create(options);
+    </script>
+
+
+<!-- Start of HubSpot Analytics Code -->
+<script type="text/javascript">
+var _hsq = _hsq || [];
+_hsq.push(["setContentType", "blog-post"]);
+_hsq.push(["setCanonicalUrl", "https:\/\/www.blita.com\/es\/noticias\/asesor\u00EDa-legal-para-emprendedores"]);
+_hsq.push(["setPageId", "37768002575"]);
+_hsq.push(["setContentMetadata", {
+    "contentPageId": 37768002575,
+    "legacyPageId": "37768002575",
+    "contentFolderId": null,
+    "contentGroupId": 5600045669,
+    "abTestId": null,
+    "languageVariantId": 37768002575,
+    "languageCode": "es",
+    
+}]);
+</script>
+
+<script type="text/javascript" id="hs-script-loader" async defer src="/hs/scriptloader/3781549.js"></script>
+<!-- End of HubSpot Analytics Code -->
+
+
+<script type="text/javascript">
+var hsVars = {
+    render_id: "bb60ab6b-9967-4d79-869e-fa4e09f69bd4",
+    ticks: 1701665783849,
+    page_id: 37768002575,
+    
+    content_group_id: 5600045669,
+    portal_id: 3781549,
+    app_hs_base_url: "https://app.hubspot.com",
+    cp_hs_base_url: "https://cp.hubspot.com",
+    language: "es",
+    analytics_page_type: "blog-post",
+    analytics_page_id: "37768002575",
+    category_id: 3,
+    folder_id: 0,
+    is_hubspot_user: false
+}
+</script>
+
+
+<script defer src="/hs/hsstatic/HubspotToolsMenu/static-1.191/js/index.js"></script>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-564ZLT2" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id="fb-root"></div>
+ <script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_ES/all.js#xfbml=1&status=0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+ <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+ 
+
+
+    
+    <!-- Generated by the HubSpot Template Builder - template version 1.03 -->
+
+</body></html>
